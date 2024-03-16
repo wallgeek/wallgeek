@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhishek
-- 👀 I have mostly worked on NodeJS, MongoDB and GraphQL
-- 💞️ For any project on node, do contact me
+- 👋 Hi, Abhishek here. I have more than 8 years experience in building large scale Backend System
+- 👀 Currently working on a DB in RUST
+- 💞️ Interested in taking and exploring RUST projects
 - 📫 You can also reach me at linkedin https://www.linkedin.com/in/khare-iitk/
 
 <!---
